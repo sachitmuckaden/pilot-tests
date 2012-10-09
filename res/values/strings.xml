@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">LatencyLoad</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="main_button">Start Test</string>
+    <string name="testing">TESTING.....</string>
+    <string name="completed">TEST COMPLETED.....</string>
+
+</resources>
